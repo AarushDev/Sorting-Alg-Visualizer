@@ -7,7 +7,6 @@ import InsertionDesc from "./components/descriptions/InsertionDesc";
 import SelectionDesc from "./components/descriptions/SelectionDesc";
 import MergeDesc from "./components/descriptions/MergeDesc";
 import QuickDesc from "./components/descriptions/QuickDesc";
-import fade from "./components/descriptions/fadein";
 
 function App() {
   const [curAlg, setCurAlg] = React.useState("bubbleSort");

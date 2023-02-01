@@ -27,6 +27,13 @@ body {
   opacity: 0;
   transition: opacity 1s ease;
   text-align: center;
-  height: 100vh;
   width: 100%;
+}
+
+footer a {
+  margin-right: 15px;
+}
+
+footer h6 {
+  margin-top: 5px;
 }
